@@ -1,4 +1,4 @@
-# Python-data-cleaning-project.
+# Python Data Cleaning Project.
 A school project, using a very dirty dataset, focused on data exploration, data cleaning and data visualization using libraries such as NumPy, Pandas, Matplotlib, etc., to handle missing values, removing duplicates, correcting data types.
 
 Objective:
