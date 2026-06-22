@@ -13,5 +13,3 @@ Key Insights:
 - Laptops generated more revenue than other products.
 - Overall customer rating was good. Need toc be better.
 - Proper standardization need to be prioritized.
-
-Files:
